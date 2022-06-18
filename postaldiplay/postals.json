@@ -1,0 +1,9482 @@
+[
+  {
+    "label": "001",
+    "location": {
+      "X": 58.0,
+      "Y": 7212.0,
+      "Z": 2.9453125,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "002",
+    "location": {
+      "X": 175.0,
+      "Y": 7083.0,
+      "Z": 1.40136719,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "003",
+    "location": {
+      "X": 78.0,
+      "Y": 7029.0,
+      "Z": 11.4912109,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "004",
+    "location": {
+      "X": 24.0,
+      "Y": 6933.0,
+      "Z": 14.4619141,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "005",
+    "location": {
+      "X": -23.0,
+      "Y": 6826.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "006",
+    "location": {
+      "X": -143.0,
+      "Y": 6694.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "007",
+    "location": {
+      "X": -250.0,
+      "Y": 6601.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "008",
+    "location": {
+      "X": -395.0,
+      "Y": 6478.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "009",
+    "location": {
+      "X": -570.0,
+      "Y": 6385.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "010",
+    "location": {
+      "X": -630.0,
+      "Y": 6223.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "011",
+    "location": {
+      "X": -707.0,
+      "Y": 6074.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "012",
+    "location": {
+      "X": -901.0,
+      "Y": 6075.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "013",
+    "location": {
+      "X": -862.0,
+      "Y": 5843.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "014",
+    "location": {
+      "X": -623.0,
+      "Y": 5997.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "015",
+    "location": {
+      "X": -523.0,
+      "Y": 6079.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "016",
+    "location": {
+      "X": -429.0,
+      "Y": 6193.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "017",
+    "location": {
+      "X": -396.0,
+      "Y": 6306.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "018",
+    "location": {
+      "X": -365.0,
+      "Y": 6229.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "019",
+    "location": {
+      "X": -300.0,
+      "Y": 6301.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "020",
+    "location": {
+      "X": -304.0,
+      "Y": 6400.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "021",
+    "location": {
+      "X": -228.0,
+      "Y": 6351.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "022",
+    "location": {
+      "X": -221.0,
+      "Y": 6476.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "023",
+    "location": {
+      "X": -169.0,
+      "Y": 6416.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "024",
+    "location": {
+      "X": -118.0,
+      "Y": 6486.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "025",
+    "location": {
+      "X": -128.0,
+      "Y": 6571.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "026",
+    "location": {
+      "X": -41.0,
+      "Y": 6539.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "027",
+    "location": {
+      "X": -30.0,
+      "Y": 6664.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "028",
+    "location": {
+      "X": -13.0,
+      "Y": 6602.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "029",
+    "location": {
+      "X": 77.0,
+      "Y": 6669.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "030",
+    "location": {
+      "X": 192.0,
+      "Y": 6717.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "031",
+    "location": {
+      "X": 189.0,
+      "Y": 6808.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "032",
+    "location": {
+      "X": 152.0,
+      "Y": 6918.0,
+      "Z": 18.1459961,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "033",
+    "location": {
+      "X": 267.0,
+      "Y": 6975.0,
+      "Z": 2.230957,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "034",
+    "location": {
+      "X": 325.0,
+      "Y": 6756.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "035",
+    "location": {
+      "X": 451.0,
+      "Y": 6758.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "036",
+    "location": {
+      "X": 659.0,
+      "Y": 6671.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "037",
+    "location": {
+      "X": 447.0,
+      "Y": 6604.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "038",
+    "location": {
+      "X": 331.0,
+      "Y": 6618.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "039",
+    "location": {
+      "X": 148.0,
+      "Y": 6561.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "040",
+    "location": {
+      "X": 70.0,
+      "Y": 6519.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "041",
+    "location": {
+      "X": -8.0,
+      "Y": 6445.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "042",
+    "location": {
+      "X": -100.0,
+      "Y": 6355.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "043",
+    "location": {
+      "X": -167.0,
+      "Y": 6283.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "044",
+    "location": {
+      "X": -239.0,
+      "Y": 6221.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "045",
+    "location": {
+      "X": -301.0,
+      "Y": 6155.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "046",
+    "location": {
+      "X": -379.0,
+      "Y": 6062.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "047",
+    "location": {
+      "X": -441.0,
+      "Y": 5983.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "048",
+    "location": {
+      "X": -584.0,
+      "Y": 5855.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "049",
+    "location": {
+      "X": -690.0,
+      "Y": 5804.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "050",
+    "location": {
+      "X": -896.0,
+      "Y": 5646.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "051",
+    "location": {
+      "X": -818.0,
+      "Y": 5515.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "052",
+    "location": {
+      "X": -629.0,
+      "Y": 5414.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "053",
+    "location": {
+      "X": -563.0,
+      "Y": 5229.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "054",
+    "location": {
+      "X": -449.0,
+      "Y": 5470.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "055",
+    "location": {
+      "X": -681.0,
+      "Y": 5610.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "056",
+    "location": {
+      "X": -611.0,
+      "Y": 5710.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "057",
+    "location": {
+      "X": -437.0,
+      "Y": 5753.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "058",
+    "location": {
+      "X": -342.0,
+      "Y": 5920.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "059",
+    "location": {
+      "X": -235.0,
+      "Y": 6033.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "060",
+    "location": {
+      "X": -146.0,
+      "Y": 6143.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "061",
+    "location": {
+      "X": -43.0,
+      "Y": 6254.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "062",
+    "location": {
+      "X": 44.0,
+      "Y": 6333.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "063",
+    "location": {
+      "X": 117.0,
+      "Y": 6417.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "064",
+    "location": {
+      "X": 196.0,
+      "Y": 6496.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "065",
+    "location": {
+      "X": 360.0,
+      "Y": 6488.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "066",
+    "location": {
+      "X": 606.0,
+      "Y": 6475.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "067",
+    "location": {
+      "X": 935.0,
+      "Y": 6519.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "068",
+    "location": {
+      "X": 1306.0,
+      "Y": 6563.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "069",
+    "location": {
+      "X": 1549.0,
+      "Y": 6575.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "070",
+    "location": {
+      "X": 1834.0,
+      "Y": 6395.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "071",
+    "location": {
+      "X": 2304.0,
+      "Y": 6465.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "072",
+    "location": {
+      "X": 2246.0,
+      "Y": 6019.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "073",
+    "location": {
+      "X": 2583.0,
+      "Y": 6203.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "074",
+    "location": {
+      "X": 2889.0,
+      "Y": 6291.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "075",
+    "location": {
+      "X": 3109.0,
+      "Y": 6027.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "076",
+    "location": {
+      "X": 2897.0,
+      "Y": 5874.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "077",
+    "location": {
+      "X": 3047.0,
+      "Y": 5689.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "078",
+    "location": {
+      "X": 3329.0,
+      "Y": 5817.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "079",
+    "location": {
+      "X": 2965.0,
+      "Y": 5450.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "080",
+    "location": {
+      "X": 3335.0,
+      "Y": 5470.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "081",
+    "location": {
+      "X": 3334.0,
+      "Y": 5161.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "082",
+    "location": {
+      "X": 3058.0,
+      "Y": 5039.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "083",
+    "location": {
+      "X": 3445.0,
+      "Y": 4858.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "084",
+    "location": {
+      "X": 3539.0,
+      "Y": 4544.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "085",
+    "location": {
+      "X": 3704.0,
+      "Y": 4563.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "086",
+    "location": {
+      "X": 3809.0,
+      "Y": 4442.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "087",
+    "location": {
+      "X": 2945.0,
+      "Y": 4491.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "088",
+    "location": {
+      "X": 2837.0,
+      "Y": 4454.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "089",
+    "location": {
+      "X": 2730.0,
+      "Y": 4413.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "090",
+    "location": {
+      "X": 2494.0,
+      "Y": 4250.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "091",
+    "location": {
+      "X": 2529.0,
+      "Y": 4367.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "092",
+    "location": {
+      "X": 2601.0,
+      "Y": 4444.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "093",
+    "location": {
+      "X": 2534.0,
+      "Y": 4508.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "094",
+    "location": {
+      "X": 2638.0,
+      "Y": 4583.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "095",
+    "location": {
+      "X": 2872.0,
+      "Y": 4622.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "096",
+    "location": {
+      "X": 2512.0,
+      "Y": 4623.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "097",
+    "location": {
+      "X": 2635.0,
+      "Y": 4732.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "098",
+    "location": {
+      "X": 2791.0,
+      "Y": 4739.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "099",
+    "location": {
+      "X": 2777.0,
+      "Y": 4876.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "100",
+    "location": {
+      "X": 2695.0,
+      "Y": 5081.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "101",
+    "location": {
+      "X": 2605.0,
+      "Y": 4895.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "102",
+    "location": {
+      "X": 2495.0,
+      "Y": 4841.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "103",
+    "location": {
+      "X": 2441.0,
+      "Y": 4761.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "104",
+    "location": {
+      "X": 2332.0,
+      "Y": 4734.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "105",
+    "location": {
+      "X": 2259.0,
+      "Y": 4864.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "106",
+    "location": {
+      "X": 2376.0,
+      "Y": 4980.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "107",
+    "location": {
+      "X": 2546.0,
+      "Y": 5011.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "108",
+    "location": {
+      "X": 2327.0,
+      "Y": 5130.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "109",
+    "location": {
+      "X": 2196.0,
+      "Y": 5041.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "110",
+    "location": {
+      "X": 2130.0,
+      "Y": 4794.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "111",
+    "location": {
+      "X": 2005.0,
+      "Y": 4699.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "112",
+    "location": {
+      "X": 1793.0,
+      "Y": 4667.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "113",
+    "location": {
+      "X": 1678.0,
+      "Y": 4602.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "114",
+    "location": {
+      "X": 1669.0,
+      "Y": 4747.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "115",
+    "location": {
+      "X": 1728.0,
+      "Y": 4815.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "116",
+    "location": {
+      "X": 1618.0,
+      "Y": 4923.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "117",
+    "location": {
+      "X": 1798.0,
+      "Y": 4971.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "118",
+    "location": {
+      "X": 1903.0,
+      "Y": 4836.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "119",
+    "location": {
+      "X": 2075.0,
+      "Y": 4933.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "120",
+    "location": {
+      "X": 1971.0,
+      "Y": 5011.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "121",
+    "location": {
+      "X": 1905.0,
+      "Y": 5077.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "122",
+    "location": {
+      "X": 2051.0,
+      "Y": 5105.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "123",
+    "location": {
+      "X": 2158.0,
+      "Y": 5181.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "124",
+    "location": {
+      "X": 2341.0,
+      "Y": 5348.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "125",
+    "location": {
+      "X": 2460.0,
+      "Y": 5441.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "126",
+    "location": {
+      "X": 2236.0,
+      "Y": 5801.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "127",
+    "location": {
+      "X": 2187.0,
+      "Y": 5597.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "128",
+    "location": {
+      "X": 1979.0,
+      "Y": 5375.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "129",
+    "location": {
+      "X": 1545.0,
+      "Y": 5494.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "130",
+    "location": {
+      "X": 1756.0,
+      "Y": 5860.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "131",
+    "location": {
+      "X": 1526.0,
+      "Y": 6331.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "132",
+    "location": {
+      "X": 1173.0,
+      "Y": 6130.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "133",
+    "location": {
+      "X": 1384.0,
+      "Y": 5789.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "134",
+    "location": {
+      "X": 1242.0,
+      "Y": 5554.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "135",
+    "location": {
+      "X": 995.0,
+      "Y": 5656.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "136",
+    "location": {
+      "X": 895.0,
+      "Y": 5014.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "137",
+    "location": {
+      "X": 1440.0,
+      "Y": 4520.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "138",
+    "location": {
+      "X": 1344.0,
+      "Y": 4357.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "139",
+    "location": {
+      "X": 961.0,
+      "Y": 4446.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "140",
+    "location": {
+      "X": 1271.0,
+      "Y": 3965.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "141",
+    "location": {
+      "X": 741.0,
+      "Y": 4218.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "142",
+    "location": {
+      "X": 460.0,
+      "Y": 4342.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "143",
+    "location": {
+      "X": 715.0,
+      "Y": 5693.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "144",
+    "location": {
+      "X": 470.0,
+      "Y": 5539.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "145",
+    "location": {
+      "X": 293.0,
+      "Y": 5358.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "145N",
+    "location": {
+      "X": 118.0,
+      "Y": 5758.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "146",
+    "location": {
+      "X": 74.0,
+      "Y": 5013.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "147",
+    "location": {
+      "X": -129.0,
+      "Y": 4909.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "148",
+    "location": {
+      "X": -340.0,
+      "Y": 4987.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "149",
+    "location": {
+      "X": -491.0,
+      "Y": 4913.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "150",
+    "location": {
+      "X": -722.0,
+      "Y": 5161.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "151",
+    "location": {
+      "X": -925.0,
+      "Y": 5281.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "152",
+    "location": {
+      "X": -1026.0,
+      "Y": 5377.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "153",
+    "location": {
+      "X": -1326.0,
+      "Y": 5332.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "154",
+    "location": {
+      "X": -1591.0,
+      "Y": 5163.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "155",
+    "location": {
+      "X": -1503.0,
+      "Y": 5053.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "156",
+    "location": {
+      "X": -1845.0,
+      "Y": 4805.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "157",
+    "location": {
+      "X": -1711.0,
+      "Y": 4846.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "158",
+    "location": {
+      "X": -1613.0,
+      "Y": 4787.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "159",
+    "location": {
+      "X": -1702.0,
+      "Y": 4620.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "160",
+    "location": {
+      "X": -1565.0,
+      "Y": 4594.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "161",
+    "location": {
+      "X": -1380.0,
+      "Y": 4795.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "162",
+    "location": {
+      "X": -1231.0,
+      "Y": 4935.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "163",
+    "location": {
+      "X": -947.0,
+      "Y": 5094.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "164",
+    "location": {
+      "X": -802.0,
+      "Y": 4897.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "165",
+    "location": {
+      "X": -1020.0,
+      "Y": 4829.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "166",
+    "location": {
+      "X": -1159.0,
+      "Y": 4801.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "167",
+    "location": {
+      "X": -1265.0,
+      "Y": 4635.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "168",
+    "location": {
+      "X": -1188.0,
+      "Y": 4505.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "169",
+    "location": {
+      "X": -996.0,
+      "Y": 4686.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "170",
+    "location": {
+      "X": -858.0,
+      "Y": 4521.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "171",
+    "location": {
+      "X": -664.0,
+      "Y": 4708.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "172",
+    "location": {
+      "X": -354.0,
+      "Y": 4677.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "173",
+    "location": {
+      "X": -152.0,
+      "Y": 4622.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "174",
+    "location": {
+      "X": -434.0,
+      "Y": 4520.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "175",
+    "location": {
+      "X": 154.0,
+      "Y": 4446.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "176",
+    "location": {
+      "X": -135.0,
+      "Y": 4322.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "177",
+    "location": {
+      "X": -256.0,
+      "Y": 4114.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "178",
+    "location": {
+      "X": -184.0,
+      "Y": 3905.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "179",
+    "location": {
+      "X": -195.0,
+      "Y": 3665.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "180",
+    "location": {
+      "X": 62.0,
+      "Y": 3715.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "181",
+    "location": {
+      "X": 88.0,
+      "Y": 3424.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "182",
+    "location": {
+      "X": -775.0,
+      "Y": 3672.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "183",
+    "location": {
+      "X": -555.0,
+      "Y": 3977.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "184",
+    "location": {
+      "X": -525.0,
+      "Y": 4222.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "185",
+    "location": {
+      "X": -717.0,
+      "Y": 4355.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "186",
+    "location": {
+      "X": -742.0,
+      "Y": 4171.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "187",
+    "location": {
+      "X": -778.0,
+      "Y": 4030.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "188",
+    "location": {
+      "X": -956.0,
+      "Y": 4131.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "189",
+    "location": {
+      "X": -970.0,
+      "Y": 4303.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "190",
+    "location": {
+      "X": -1379.0,
+      "Y": 4233.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "191",
+    "location": {
+      "X": -1547.0,
+      "Y": 4218.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "192",
+    "location": {
+      "X": -1547.0,
+      "Y": 4336.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "193",
+    "location": {
+      "X": -1959.0,
+      "Y": 4456.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "194",
+    "location": {
+      "X": -2263.0,
+      "Y": 4359.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "195",
+    "location": {
+      "X": -2414.0,
+      "Y": 4216.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "196",
+    "location": {
+      "X": -2453.0,
+      "Y": 3930.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "197",
+    "location": {
+      "X": -1872.0,
+      "Y": 3870.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "198",
+    "location": {
+      "X": -2450.0,
+      "Y": 3584.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "199",
+    "location": {
+      "X": -2976.0,
+      "Y": 3450.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "200",
+    "location": {
+      "X": -2746.0,
+      "Y": 3274.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "201",
+    "location": {
+      "X": -2542.0,
+      "Y": 3216.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "202",
+    "location": {
+      "X": -2426.0,
+      "Y": 3280.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "203",
+    "location": {
+      "X": -2278.0,
+      "Y": 3217.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "204",
+    "location": {
+      "X": -2135.0,
+      "Y": 3267.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "205",
+    "location": {
+      "X": -1932.0,
+      "Y": 3305.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "206",
+    "location": {
+      "X": -2009.0,
+      "Y": 3188.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "207",
+    "location": {
+      "X": -1810.0,
+      "Y": 3222.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "208",
+    "location": {
+      "X": -1895.0,
+      "Y": 3144.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "209",
+    "location": {
+      "X": -1768.0,
+      "Y": 3074.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "210",
+    "location": {
+      "X": -1670.0,
+      "Y": 2880.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "211",
+    "location": {
+      "X": -1829.0,
+      "Y": 2938.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "212",
+    "location": {
+      "X": -1852.0,
+      "Y": 2803.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "213",
+    "location": {
+      "X": -2006.0,
+      "Y": 2934.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "214",
+    "location": {
+      "X": -2203.0,
+      "Y": 3056.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "215",
+    "location": {
+      "X": -2652.0,
+      "Y": 3002.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "216",
+    "location": {
+      "X": -2583.0,
+      "Y": 2675.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "217",
+    "location": {
+      "X": -2110.0,
+      "Y": 2776.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "218",
+    "location": {
+      "X": -1919.0,
+      "Y": 2675.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "219",
+    "location": {
+      "X": -1434.0,
+      "Y": 2715.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "220",
+    "location": {
+      "X": -1187.0,
+      "Y": 3184.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "221",
+    "location": {
+      "X": -848.0,
+      "Y": 2875.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "222",
+    "location": {
+      "X": -471.0,
+      "Y": 3013.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "223",
+    "location": {
+      "X": -41.0,
+      "Y": 3187.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "224",
+    "location": {
+      "X": -19.0,
+      "Y": 3026.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "225",
+    "location": {
+      "X": -43.0,
+      "Y": 2893.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "226",
+    "location": {
+      "X": 18.0,
+      "Y": 2787.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "227",
+    "location": {
+      "X": 216.0,
+      "Y": 2595.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "228",
+    "location": {
+      "X": 194.0,
+      "Y": 2781.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "229",
+    "location": {
+      "X": 157.0,
+      "Y": 2922.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "230",
+    "location": {
+      "X": 186.0,
+      "Y": 3078.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "231",
+    "location": {
+      "X": 243.0,
+      "Y": 3169.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "232",
+    "location": {
+      "X": 280.0,
+      "Y": 3296.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "233",
+    "location": {
+      "X": 337.0,
+      "Y": 3421.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "234",
+    "location": {
+      "X": 344.0,
+      "Y": 3562.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "235",
+    "location": {
+      "X": 464.0,
+      "Y": 3553.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "236",
+    "location": {
+      "X": 650.0,
+      "Y": 3493.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "237",
+    "location": {
+      "X": 594.0,
+      "Y": 3192.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "238",
+    "location": {
+      "X": 515.0,
+      "Y": 3065.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "239",
+    "location": {
+      "X": 408.0,
+      "Y": 2971.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "240",
+    "location": {
+      "X": 504.0,
+      "Y": 2918.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "241",
+    "location": {
+      "X": 402.0,
+      "Y": 2643.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "242",
+    "location": {
+      "X": 572.0,
+      "Y": 2665.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "243",
+    "location": {
+      "X": 765.0,
+      "Y": 2679.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "244",
+    "location": {
+      "X": 593.0,
+      "Y": 2757.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "245",
+    "location": {
+      "X": 631.0,
+      "Y": 2863.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "246",
+    "location": {
+      "X": 784.0,
+      "Y": 2786.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "247",
+    "location": {
+      "X": 959.0,
+      "Y": 2735.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "248",
+    "location": {
+      "X": 866.0,
+      "Y": 2852.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "249",
+    "location": {
+      "X": 645.0,
+      "Y": 2995.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "250",
+    "location": {
+      "X": 953.0,
+      "Y": 3106.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "251",
+    "location": {
+      "X": 837.0,
+      "Y": 3563.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "252",
+    "location": {
+      "X": 890.0,
+      "Y": 3652.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "253",
+    "location": {
+      "X": 1162.0,
+      "Y": 3644.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "254",
+    "location": {
+      "X": 1120.0,
+      "Y": 3579.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "255",
+    "location": {
+      "X": 1056.0,
+      "Y": 3495.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "256",
+    "location": {
+      "X": 1028.0,
+      "Y": 3271.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "257",
+    "location": {
+      "X": 1141.0,
+      "Y": 3106.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "258",
+    "location": {
+      "X": 1178.0,
+      "Y": 2957.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "259",
+    "location": {
+      "X": 1121.0,
+      "Y": 2835.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "260",
+    "location": {
+      "X": 1197.0,
+      "Y": 2703.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "261",
+    "location": {
+      "X": 1234.0,
+      "Y": 2874.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "262",
+    "location": {
+      "X": 1344.0,
+      "Y": 2762.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "263",
+    "location": {
+      "X": 1486.0,
+      "Y": 2826.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "264",
+    "location": {
+      "X": 1581.0,
+      "Y": 2947.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "265",
+    "location": {
+      "X": 1762.0,
+      "Y": 3052.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "266",
+    "location": {
+      "X": 1636.0,
+      "Y": 3231.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "267",
+    "location": {
+      "X": 1270.0,
+      "Y": 3198.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "268",
+    "location": {
+      "X": 1349.0,
+      "Y": 3340.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "269",
+    "location": {
+      "X": 1285.0,
+      "Y": 3526.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "270",
+    "location": {
+      "X": 1401.0,
+      "Y": 3746.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "271",
+    "location": {
+      "X": 1386.0,
+      "Y": 3636.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "272",
+    "location": {
+      "X": 1513.0,
+      "Y": 3671.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "273",
+    "location": {
+      "X": 1433.0,
+      "Y": 3550.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "274",
+    "location": {
+      "X": 1565.0,
+      "Y": 3600.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "275",
+    "location": {
+      "X": 1630.0,
+      "Y": 3513.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "276",
+    "location": {
+      "X": 1581.0,
+      "Y": 3452.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "277",
+    "location": {
+      "X": 1738.0,
+      "Y": 3358.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "278",
+    "location": {
+      "X": 1851.0,
+      "Y": 3176.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "279",
+    "location": {
+      "X": 1996.0,
+      "Y": 3033.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "280",
+    "location": {
+      "X": 2047.0,
+      "Y": 3203.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "281",
+    "location": {
+      "X": 1911.0,
+      "Y": 3456.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "282",
+    "location": {
+      "X": 1799.0,
+      "Y": 3534.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "283",
+    "location": {
+      "X": 1740.0,
+      "Y": 3623.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "284",
+    "location": {
+      "X": 1730.0,
+      "Y": 3697.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "285",
+    "location": {
+      "X": 1669.0,
+      "Y": 3734.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "286",
+    "location": {
+      "X": 1622.0,
+      "Y": 3803.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "287",
+    "location": {
+      "X": 1527.0,
+      "Y": 3805.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "288",
+    "location": {
+      "X": 1660.0,
+      "Y": 3898.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "289",
+    "location": {
+      "X": 1720.0,
+      "Y": 3863.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "290",
+    "location": {
+      "X": 1816.0,
+      "Y": 3970.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "291",
+    "location": {
+      "X": 1809.0,
+      "Y": 3902.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "292",
+    "location": {
+      "X": 1849.0,
+      "Y": 3847.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "293",
+    "location": {
+      "X": 1886.0,
+      "Y": 3777.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "294",
+    "location": {
+      "X": 1903.0,
+      "Y": 3721.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "295",
+    "location": {
+      "X": 1914.0,
+      "Y": 3904.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "296",
+    "location": {
+      "X": 1955.0,
+      "Y": 3835.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "297",
+    "location": {
+      "X": 1992.0,
+      "Y": 3761.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "298",
+    "location": {
+      "X": 1990.0,
+      "Y": 3954.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "299",
+    "location": {
+      "X": 2139.0,
+      "Y": 3854.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "300",
+    "location": {
+      "X": 1994.0,
+      "Y": 3660.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "301",
+    "location": {
+      "X": 2053.0,
+      "Y": 3560.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "302",
+    "location": {
+      "X": 2051.0,
+      "Y": 3444.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "303",
+    "location": {
+      "X": 2194.0,
+      "Y": 3501.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "304",
+    "location": {
+      "X": 2194.0,
+      "Y": 3311.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "305",
+    "location": {
+      "X": 2352.0,
+      "Y": 3116.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "306",
+    "location": {
+      "X": 2426.0,
+      "Y": 3050.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "307",
+    "location": {
+      "X": 2594.0,
+      "Y": 3169.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "308",
+    "location": {
+      "X": 2683.0,
+      "Y": 3282.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "309",
+    "location": {
+      "X": 2389.0,
+      "Y": 3349.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "310",
+    "location": {
+      "X": 2388.0,
+      "Y": 3564.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "311",
+    "location": {
+      "X": 2300.0,
+      "Y": 3842.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "312",
+    "location": {
+      "X": 2529.0,
+      "Y": 3689.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "313",
+    "location": {
+      "X": 2718.0,
+      "Y": 3487.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "314",
+    "location": {
+      "X": 2842.0,
+      "Y": 3700.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "315",
+    "location": {
+      "X": 2760.0,
+      "Y": 3798.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "316",
+    "location": {
+      "X": 2558.0,
+      "Y": 3899.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "317",
+    "location": {
+      "X": 2519.0,
+      "Y": 4093.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "318",
+    "location": {
+      "X": 2722.0,
+      "Y": 4145.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "319",
+    "location": {
+      "X": 2702.0,
+      "Y": 4298.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "320",
+    "location": {
+      "X": 2898.0,
+      "Y": 4332.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "321",
+    "location": {
+      "X": 3375.0,
+      "Y": 4308.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "322",
+    "location": {
+      "X": 3050.0,
+      "Y": 4148.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "323",
+    "location": {
+      "X": 3018.0,
+      "Y": 3888.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "324",
+    "location": {
+      "X": 3009.0,
+      "Y": 3491.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "325",
+    "location": {
+      "X": 3254.0,
+      "Y": 3612.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "326",
+    "location": {
+      "X": 3430.0,
+      "Y": 3772.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "327",
+    "location": {
+      "X": 3600.0,
+      "Y": 3709.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "328",
+    "location": {
+      "X": 3458.0,
+      "Y": 3620.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "329",
+    "location": {
+      "X": 3427.0,
+      "Y": 3247.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "330",
+    "location": {
+      "X": 3003.0,
+      "Y": 2938.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "331",
+    "location": {
+      "X": 2945.0,
+      "Y": 2794.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "332",
+    "location": {
+      "X": 2928.0,
+      "Y": 2343.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "333",
+    "location": {
+      "X": 2689.0,
+      "Y": 2859.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "334",
+    "location": {
+      "X": 2579.0,
+      "Y": 2726.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "335",
+    "location": {
+      "X": 2623.0,
+      "Y": 2478.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "336",
+    "location": {
+      "X": 2604.0,
+      "Y": 2164.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "336N",
+    "location": {
+      "X": 2934.0,
+      "Y": 2329.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "337",
+    "location": {
+      "X": 2527.0,
+      "Y": 1961.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "338",
+    "location": {
+      "X": 2533.0,
+      "Y": 1770.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "339",
+    "location": {
+      "X": 2566.0,
+      "Y": 1628.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "340",
+    "location": {
+      "X": 2742.0,
+      "Y": 1674.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "341",
+    "location": {
+      "X": 2904.0,
+      "Y": 1530.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "342",
+    "location": {
+      "X": 2824.0,
+      "Y": 1417.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "343",
+    "location": {
+      "X": 2752.0,
+      "Y": 1544.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "344",
+    "location": {
+      "X": 2669.0,
+      "Y": 1481.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "345",
+    "location": {
+      "X": 2361.0,
+      "Y": 1258.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "346",
+    "location": {
+      "X": 2450.0,
+      "Y": 1522.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "347",
+    "location": {
+      "X": 2316.0,
+      "Y": 1656.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "348",
+    "location": {
+      "X": 2193.0,
+      "Y": 1665.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "349",
+    "location": {
+      "X": 2368.0,
+      "Y": 1838.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "350",
+    "location": {
+      "X": 2031.0,
+      "Y": 1841.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "351",
+    "location": {
+      "X": 2272.0,
+      "Y": 2019.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "352",
+    "location": {
+      "X": 1822.0,
+      "Y": 2019.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "353",
+    "location": {
+      "X": 2005.0,
+      "Y": 2094.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "354",
+    "location": {
+      "X": 2379.0,
+      "Y": 2227.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "355",
+    "location": {
+      "X": 2464.0,
+      "Y": 2363.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "356",
+    "location": {
+      "X": 2346.0,
+      "Y": 2555.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "357",
+    "location": {
+      "X": 2208.0,
+      "Y": 2403.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "358",
+    "location": {
+      "X": 2004.0,
+      "Y": 2320.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "359",
+    "location": {
+      "X": 2057.0,
+      "Y": 2572.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "360",
+    "location": {
+      "X": 2168.0,
+      "Y": 2840.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "361",
+    "location": {
+      "X": 1906.0,
+      "Y": 2919.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "362",
+    "location": {
+      "X": 1966.0,
+      "Y": 2669.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "363",
+    "location": {
+      "X": 1737.0,
+      "Y": 2830.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "364",
+    "location": {
+      "X": 1600.0,
+      "Y": 2692.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "365",
+    "location": {
+      "X": 1675.0,
+      "Y": 2606.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "366",
+    "location": {
+      "X": 1784.0,
+      "Y": 2436.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "367",
+    "location": {
+      "X": 1552.0,
+      "Y": 2175.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "368",
+    "location": {
+      "X": 1530.0,
+      "Y": 1931.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "369",
+    "location": {
+      "X": 1140.0,
+      "Y": 2106.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "370",
+    "location": {
+      "X": 1033.0,
+      "Y": 2379.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "371",
+    "location": {
+      "X": 898.0,
+      "Y": 2503.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "372",
+    "location": {
+      "X": 708.0,
+      "Y": 2528.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "373",
+    "location": {
+      "X": 536.0,
+      "Y": 2489.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "374",
+    "location": {
+      "X": 322.0,
+      "Y": 2282.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "375",
+    "location": {
+      "X": 198.0,
+      "Y": 2289.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "376",
+    "location": {
+      "X": -141.0,
+      "Y": 2695.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "377",
+    "location": {
+      "X": -294.0,
+      "Y": 2810.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "378",
+    "location": {
+      "X": -273.0,
+      "Y": 2924.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "379",
+    "location": {
+      "X": -492.0,
+      "Y": 2742.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "380",
+    "location": {
+      "X": -290.0,
+      "Y": 2555.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "381",
+    "location": {
+      "X": -185.0,
+      "Y": 2322.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "382",
+    "location": {
+      "X": -65.0,
+      "Y": 2131.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "383",
+    "location": {
+      "X": -265.0,
+      "Y": 1962.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "384",
+    "location": {
+      "X": -471.0,
+      "Y": 1877.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "385",
+    "location": {
+      "X": -481.0,
+      "Y": 1600.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "386",
+    "location": {
+      "X": -301.0,
+      "Y": 1429.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "387",
+    "location": {
+      "X": -141.0,
+      "Y": 1280.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "388",
+    "location": {
+      "X": -430.0,
+      "Y": 1050.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "389",
+    "location": {
+      "X": -407.0,
+      "Y": 1211.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "390",
+    "location": {
+      "X": -730.0,
+      "Y": 1207.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "391",
+    "location": {
+      "X": -963.0,
+      "Y": 1155.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "392",
+    "location": {
+      "X": -1182.0,
+      "Y": 977.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "393",
+    "location": {
+      "X": -1592.0,
+      "Y": 984.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "394",
+    "location": {
+      "X": -809.0,
+      "Y": 1435.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "395",
+    "location": {
+      "X": -1176.0,
+      "Y": 1571.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "396",
+    "location": {
+      "X": -717.0,
+      "Y": 1643.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "397",
+    "location": {
+      "X": -840.0,
+      "Y": 1729.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "398",
+    "location": {
+      "X": -779.0,
+      "Y": 1936.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "399",
+    "location": {
+      "X": -1026.0,
+      "Y": 2124.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "400",
+    "location": {
+      "X": -559.0,
+      "Y": 2051.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "401",
+    "location": {
+      "X": -741.0,
+      "Y": 2306.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "402",
+    "location": {
+      "X": -714.0,
+      "Y": 2565.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "403",
+    "location": {
+      "X": -967.0,
+      "Y": 2665.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "404",
+    "location": {
+      "X": -1256.0,
+      "Y": 2507.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "405",
+    "location": {
+      "X": -1312.0,
+      "Y": 2287.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "406",
+    "location": {
+      "X": -1581.0,
+      "Y": 2104.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "407",
+    "location": {
+      "X": -1634.0,
+      "Y": 2405.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "408",
+    "location": {
+      "X": -1693.0,
+      "Y": 2292.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "409",
+    "location": {
+      "X": -1831.0,
+      "Y": 2184.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "410",
+    "location": {
+      "X": -1697.0,
+      "Y": 1964.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "411",
+    "location": {
+      "X": -1426.0,
+      "Y": 1827.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "412",
+    "location": {
+      "X": -1595.0,
+      "Y": 1377.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "413",
+    "location": {
+      "X": -2103.0,
+      "Y": 1471.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "414",
+    "location": {
+      "X": -1902.0,
+      "Y": 1902.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "415",
+    "location": {
+      "X": -2046.0,
+      "Y": 1982.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "416",
+    "location": {
+      "X": -2103.0,
+      "Y": 2282.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "417",
+    "location": {
+      "X": -2221.0,
+      "Y": 1898.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "418",
+    "location": {
+      "X": -2560.0,
+      "Y": 2301.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "419",
+    "location": {
+      "X": -2760.0,
+      "Y": 2288.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "420",
+    "location": {
+      "X": -2958.0,
+      "Y": 2062.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "421",
+    "location": {
+      "X": -2563.0,
+      "Y": 1902.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "422",
+    "location": {
+      "X": -2587.0,
+      "Y": 1610.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "423",
+    "location": {
+      "X": -3088.0,
+      "Y": 1765.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "424",
+    "location": {
+      "X": -2953.0,
+      "Y": 1506.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "425",
+    "location": {
+      "X": -2781.0,
+      "Y": 1417.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "426",
+    "location": {
+      "X": -3216.0,
+      "Y": 1268.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "427",
+    "location": {
+      "X": -3077.0,
+      "Y": 1200.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "428",
+    "location": {
+      "X": -2682.0,
+      "Y": 1142.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "429",
+    "location": {
+      "X": -2313.0,
+      "Y": 1064.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "430",
+    "location": {
+      "X": -1726.0,
+      "Y": 813.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "431",
+    "location": {
+      "X": -1996.0,
+      "Y": 740.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "432",
+    "location": {
+      "X": -2641.0,
+      "Y": 537.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "433",
+    "location": {
+      "X": -3270.0,
+      "Y": 1092.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "434",
+    "location": {
+      "X": -3417.0,
+      "Y": 967.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "435",
+    "location": {
+      "X": -3203.0,
+      "Y": 902.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "436",
+    "location": {
+      "X": -3118.0,
+      "Y": 675.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "437",
+    "location": {
+      "X": -3049.0,
+      "Y": 502.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "438",
+    "location": {
+      "X": -3130.0,
+      "Y": 326.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "439",
+    "location": {
+      "X": -3070.0,
+      "Y": 124.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "440",
+    "location": {
+      "X": -2826.0,
+      "Y": -12.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "441",
+    "location": {
+      "X": -2542.0,
+      "Y": -239.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "442",
+    "location": {
+      "X": -2168.0,
+      "Y": 212.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "443",
+    "location": {
+      "X": -2357.0,
+      "Y": 292.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "444",
+    "location": {
+      "X": -1989.0,
+      "Y": 639.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "445",
+    "location": {
+      "X": -2038.0,
+      "Y": 481.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "446",
+    "location": {
+      "X": -2030.0,
+      "Y": 254.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "447",
+    "location": {
+      "X": -1862.0,
+      "Y": 114.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "448",
+    "location": {
+      "X": -1788.0,
+      "Y": -13.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "449",
+    "location": {
+      "X": -1500.0,
+      "Y": -52.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "450",
+    "location": {
+      "X": -1370.0,
+      "Y": 62.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "451",
+    "location": {
+      "X": -1160.0,
+      "Y": 93.0,
+      "Z": 57.2797852,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "452",
+    "location": {
+      "X": -1648.0,
+      "Y": 23.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "453",
+    "location": {
+      "X": -1524.0,
+      "Y": 137.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "454",
+    "location": {
+      "X": -1732.0,
+      "Y": 131.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "455",
+    "location": {
+      "X": -1608.0,
+      "Y": 228.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "456",
+    "location": {
+      "X": -1839.0,
+      "Y": 260.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "457",
+    "location": {
+      "X": -1906.0,
+      "Y": 515.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "458",
+    "location": {
+      "X": -1745.0,
+      "Y": 440.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "459",
+    "location": {
+      "X": -1697.0,
+      "Y": 341.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "460",
+    "location": {
+      "X": -1524.0,
+      "Y": 434.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "461",
+    "location": {
+      "X": -1388.0,
+      "Y": 761.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "462",
+    "location": {
+      "X": -1361.0,
+      "Y": 490.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "463",
+    "location": {
+      "X": -1311.0,
+      "Y": 311.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "464",
+    "location": {
+      "X": -1115.0,
+      "Y": 341.0,
+      "Z": 67.08057,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "465",
+    "location": {
+      "X": -1180.0,
+      "Y": 558.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "466",
+    "location": {
+      "X": -1218.0,
+      "Y": 658.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "467",
+    "location": {
+      "X": -1020.0,
+      "Y": 773.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "468",
+    "location": {
+      "X": -999.0,
+      "Y": 610.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "469",
+    "location": {
+      "X": -1012.0,
+      "Y": 448.0,
+      "Z": 76.31885,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "470",
+    "location": {
+      "X": -970.0,
+      "Y": 312.0,
+      "Z": 69.1206055,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "471",
+    "location": {
+      "X": -859.0,
+      "Y": 265.0,
+      "Z": 78.0415039,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "472",
+    "location": {
+      "X": -788.0,
+      "Y": 378.0,
+      "Z": 86.0126953,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "473",
+    "location": {
+      "X": -602.0,
+      "Y": 303.0,
+      "Z": 88.20117,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "474",
+    "location": {
+      "X": -594.0,
+      "Y": 461.0,
+      "Z": 108.018578,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "475",
+    "location": {
+      "X": -729.0,
+      "Y": 480.0,
+      "Z": 105.458496,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "476",
+    "location": {
+      "X": -830.0,
+      "Y": 497.0,
+      "Z": 87.60631,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "477",
+    "location": {
+      "X": -711.0,
+      "Y": 564.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "478",
+    "location": {
+      "X": -563.0,
+      "Y": 562.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "479",
+    "location": {
+      "X": -718.0,
+      "Y": 618.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "480",
+    "location": {
+      "X": -890.0,
+      "Y": 677.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "481",
+    "location": {
+      "X": -767.0,
+      "Y": 790.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "482",
+    "location": {
+      "X": -743.0,
+      "Y": 945.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "483",
+    "location": {
+      "X": -619.0,
+      "Y": 724.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "484",
+    "location": {
+      "X": -529.0,
+      "Y": 809.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "485",
+    "location": {
+      "X": -484.0,
+      "Y": 914.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "486",
+    "location": {
+      "X": -451.0,
+      "Y": 703.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "487",
+    "location": {
+      "X": -429.0,
+      "Y": 621.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "488",
+    "location": {
+      "X": -443.0,
+      "Y": 487.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "489",
+    "location": {
+      "X": -477.0,
+      "Y": 315.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "490",
+    "location": {
+      "X": -355.0,
+      "Y": 317.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "491",
+    "location": {
+      "X": -264.0,
+      "Y": 313.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "492",
+    "location": {
+      "X": -373.0,
+      "Y": 395.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "493",
+    "location": {
+      "X": -224.0,
+      "Y": 467.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "494",
+    "location": {
+      "X": -304.0,
+      "Y": 559.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "495",
+    "location": {
+      "X": -281.0,
+      "Y": 944.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "496",
+    "location": {
+      "X": -204.0,
+      "Y": 979.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "497",
+    "location": {
+      "X": 35.0,
+      "Y": 1005.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "498",
+    "location": {
+      "X": -56.0,
+      "Y": 944.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "499",
+    "location": {
+      "X": -93.0,
+      "Y": 871.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "500",
+    "location": {
+      "X": -37.0,
+      "Y": 748.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "501",
+    "location": {
+      "X": -104.0,
+      "Y": 572.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "502",
+    "location": {
+      "X": 13.0,
+      "Y": 501.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "503",
+    "location": {
+      "X": -143.0,
+      "Y": 286.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "504",
+    "location": {
+      "X": -88.0,
+      "Y": 357.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "505",
+    "location": {
+      "X": 20.0,
+      "Y": 428.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "506",
+    "location": {
+      "X": 145.0,
+      "Y": 739.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "507",
+    "location": {
+      "X": 227.0,
+      "Y": 905.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "508",
+    "location": {
+      "X": 242.0,
+      "Y": 780.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "509",
+    "location": {
+      "X": 263.0,
+      "Y": 700.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "510",
+    "location": {
+      "X": 193.0,
+      "Y": 544.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "511",
+    "location": {
+      "X": 211.0,
+      "Y": 464.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "512",
+    "location": {
+      "X": 352.0,
+      "Y": 463.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "513",
+    "location": {
+      "X": 389.0,
+      "Y": 818.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "514",
+    "location": {
+      "X": 441.0,
+      "Y": 906.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "515",
+    "location": {
+      "X": 133.0,
+      "Y": 1149.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "516",
+    "location": {
+      "X": 230.0,
+      "Y": 1319.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "517",
+    "location": {
+      "X": 98.0,
+      "Y": 1603.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "518",
+    "location": {
+      "X": -90.0,
+      "Y": 1910.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "519",
+    "location": {
+      "X": 117.0,
+      "Y": 2022.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "520",
+    "location": {
+      "X": 213.0,
+      "Y": 1846.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "521",
+    "location": {
+      "X": 282.0,
+      "Y": 1673.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "522",
+    "location": {
+      "X": 423.0,
+      "Y": 2056.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "523",
+    "location": {
+      "X": 848.0,
+      "Y": 2174.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "524",
+    "location": {
+      "X": 793.0,
+      "Y": 1977.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "525",
+    "location": {
+      "X": 933.0,
+      "Y": 1708.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "526",
+    "location": {
+      "X": 813.0,
+      "Y": 1277.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "527",
+    "location": {
+      "X": 522.0,
+      "Y": 1283.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "528",
+    "location": {
+      "X": 462.0,
+      "Y": 1179.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "529",
+    "location": {
+      "X": 806.0,
+      "Y": 1144.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "530",
+    "location": {
+      "X": 681.0,
+      "Y": 785.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "531",
+    "location": {
+      "X": 688.0,
+      "Y": 587.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "532",
+    "location": {
+      "X": 775.0,
+      "Y": 370.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "533",
+    "location": {
+      "X": 1025.0,
+      "Y": 428.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "534",
+    "location": {
+      "X": 1106.0,
+      "Y": 735.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "535",
+    "location": {
+      "X": 1277.0,
+      "Y": 765.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "536",
+    "location": {
+      "X": 1018.0,
+      "Y": 891.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "537",
+    "location": {
+      "X": 1164.0,
+      "Y": 1099.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "538",
+    "location": {
+      "X": 1364.0,
+      "Y": 1124.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "539",
+    "location": {
+      "X": 1501.0,
+      "Y": 1098.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "540",
+    "location": {
+      "X": 1286.0,
+      "Y": 1558.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "541",
+    "location": {
+      "X": 1195.0,
+      "Y": 1899.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "542",
+    "location": {
+      "X": 1566.0,
+      "Y": 1670.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "543",
+    "location": {
+      "X": 1644.0,
+      "Y": 1511.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "544",
+    "location": {
+      "X": 1950.0,
+      "Y": 1590.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "545",
+    "location": {
+      "X": 1748.0,
+      "Y": 1263.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "546",
+    "location": {
+      "X": 1571.0,
+      "Y": 892.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "547",
+    "location": {
+      "X": 1982.0,
+      "Y": 938.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "548",
+    "location": {
+      "X": 2263.0,
+      "Y": 1135.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "549",
+    "location": {
+      "X": 2478.0,
+      "Y": 852.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "550",
+    "location": {
+      "X": 2360.0,
+      "Y": 803.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "551",
+    "location": {
+      "X": 1946.0,
+      "Y": 661.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "552",
+    "location": {
+      "X": 1712.0,
+      "Y": 710.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "553",
+    "location": {
+      "X": 1805.0,
+      "Y": 320.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "554",
+    "location": {
+      "X": 2386.0,
+      "Y": 440.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "555",
+    "location": {
+      "X": 2573.0,
+      "Y": 531.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "556",
+    "location": {
+      "X": 2825.0,
+      "Y": 711.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "557",
+    "location": {
+      "X": 2578.0,
+      "Y": 282.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "558",
+    "location": {
+      "X": 2535.0,
+      "Y": 24.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "559",
+    "location": {
+      "X": 2199.0,
+      "Y": 115.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "560",
+    "location": {
+      "X": 1814.0,
+      "Y": 169.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "561",
+    "location": {
+      "X": 1668.0,
+      "Y": -62.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "562",
+    "location": {
+      "X": 1968.0,
+      "Y": -77.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "563",
+    "location": {
+      "X": 1792.0,
+      "Y": -398.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "564",
+    "location": {
+      "X": 2335.0,
+      "Y": -373.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "565",
+    "location": {
+      "X": 2599.0,
+      "Y": -284.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "566",
+    "location": {
+      "X": 2767.0,
+      "Y": -720.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "567",
+    "location": {
+      "X": 2458.0,
+      "Y": -687.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "568",
+    "location": {
+      "X": 1980.0,
+      "Y": -647.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "569",
+    "location": {
+      "X": 1617.0,
+      "Y": -954.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "570",
+    "location": {
+      "X": 1368.0,
+      "Y": -700.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "571",
+    "location": {
+      "X": 1357.0,
+      "Y": -532.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "572",
+    "location": {
+      "X": 1232.0,
+      "Y": -647.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "573",
+    "location": {
+      "X": 1243.0,
+      "Y": -466.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "574",
+    "location": {
+      "X": 1110.0,
+      "Y": -648.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "575",
+    "location": {
+      "X": 1137.0,
+      "Y": -432.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "576",
+    "location": {
+      "X": 972.0,
+      "Y": -609.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "577",
+    "location": {
+      "X": 990.0,
+      "Y": -516.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "578",
+    "location": {
+      "X": 668.0,
+      "Y": -484.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "579",
+    "location": {
+      "X": 923.0,
+      "Y": -418.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "580",
+    "location": {
+      "X": 1092.0,
+      "Y": -290.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "581",
+    "location": {
+      "X": 1223.0,
+      "Y": -271.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "582",
+    "location": {
+      "X": 1053.0,
+      "Y": -31.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "583",
+    "location": {
+      "X": 1190.0,
+      "Y": 202.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "584",
+    "location": {
+      "X": 1257.0,
+      "Y": 470.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "585",
+    "location": {
+      "X": 1065.0,
+      "Y": 200.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "586",
+    "location": {
+      "X": 961.0,
+      "Y": 38.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "587",
+    "location": {
+      "X": 890.0,
+      "Y": -63.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "588",
+    "location": {
+      "X": 879.0,
+      "Y": -175.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "589",
+    "location": {
+      "X": 960.0,
+      "Y": -231.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "590",
+    "location": {
+      "X": 755.0,
+      "Y": -265.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "591",
+    "location": {
+      "X": 799.0,
+      "Y": -113.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "592",
+    "location": {
+      "X": 633.0,
+      "Y": 154.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "593",
+    "location": {
+      "X": 474.0,
+      "Y": 199.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "594",
+    "location": {
+      "X": 307.0,
+      "Y": 351.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "595",
+    "location": {
+      "X": 187.0,
+      "Y": 396.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "596",
+    "location": {
+      "X": 300.0,
+      "Y": 253.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "597",
+    "location": {
+      "X": 150.0,
+      "Y": 286.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "598",
+    "location": {
+      "X": 92.0,
+      "Y": 166.0,
+      "Z": 103.562012,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "599",
+    "location": {
+      "X": 242.0,
+      "Y": 115.0,
+      "Z": 101.633789,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "600",
+    "location": {
+      "X": 398.0,
+      "Y": 53.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "601",
+    "location": {
+      "X": 570.0,
+      "Y": 1.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "602",
+    "location": {
+      "X": 600.0,
+      "Y": -176.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "603",
+    "location": {
+      "X": 487.0,
+      "Y": -100.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "604",
+    "location": {
+      "X": 369.0,
+      "Y": -30.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "605",
+    "location": {
+      "X": 198.0,
+      "Y": 29.0,
+      "Z": 76.1674,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "606",
+    "location": {
+      "X": 57.0,
+      "Y": 66.0,
+      "Z": 73.82715,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "607",
+    "location": {
+      "X": 57.0,
+      "Y": -77.0,
+      "Z": 61.55664,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "608",
+    "location": {
+      "X": 220.0,
+      "Y": -110.0,
+      "Z": 68.71631,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "609",
+    "location": {
+      "X": 320.0,
+      "Y": -174.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "610",
+    "location": {
+      "X": 445.0,
+      "Y": -221.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "611",
+    "location": {
+      "X": 460.0,
+      "Y": -437.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "612",
+    "location": {
+      "X": 392.0,
+      "Y": -332.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "613",
+    "location": {
+      "X": 240.0,
+      "Y": -435.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "614",
+    "location": {
+      "X": 265.0,
+      "Y": -303.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "615",
+    "location": {
+      "X": 87.0,
+      "Y": -414.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "616",
+    "location": {
+      "X": 130.0,
+      "Y": -252.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "617",
+    "location": {
+      "X": -20.0,
+      "Y": -200.0,
+      "Z": 51.355957,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "618",
+    "location": {
+      "X": -63.0,
+      "Y": -374.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "619",
+    "location": {
+      "X": -207.0,
+      "Y": -276.0,
+      "Z": 73.48828,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "620",
+    "location": {
+      "X": -198.0,
+      "Y": -137.0,
+      "Z": 87.67383,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "621",
+    "location": {
+      "X": -126.0,
+      "Y": -43.0,
+      "Z": 59.3977432,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "622",
+    "location": {
+      "X": -188.0,
+      "Y": 50.0,
+      "Z": 80.46764,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "623",
+    "location": {
+      "X": -47.0,
+      "Y": 168.0,
+      "Z": 144.175812,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "624",
+    "location": {
+      "X": -167.0,
+      "Y": 165.0,
+      "Z": 80.51267,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "625",
+    "location": {
+      "X": -315.0,
+      "Y": 174.0,
+      "Z": 86.91797,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "626",
+    "location": {
+      "X": -321.0,
+      "Y": 61.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "627",
+    "location": {
+      "X": -364.0,
+      "Y": -105.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "628",
+    "location": {
+      "X": -328.0,
+      "Y": -240.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "629",
+    "location": {
+      "X": -364.0,
+      "Y": -350.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "630",
+    "location": {
+      "X": -383.0,
+      "Y": -436.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "631",
+    "location": {
+      "X": -546.0,
+      "Y": -429.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "632",
+    "location": {
+      "X": -479.0,
+      "Y": -340.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "633",
+    "location": {
+      "X": -418.0,
+      "Y": -149.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "634",
+    "location": {
+      "X": -467.0,
+      "Y": -53.0,
+      "Z": 43.42813,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "635",
+    "location": {
+      "X": -464.0,
+      "Y": 70.0,
+      "Z": 57.66211,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "636",
+    "location": {
+      "X": -460.0,
+      "Y": 188.0,
+      "Z": 93.4092255,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "637",
+    "location": {
+      "X": -599.0,
+      "Y": 186.0,
+      "Z": 69.38379,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "638",
+    "location": {
+      "X": -604.0,
+      "Y": 60.0,
+      "Z": 119.165039,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "639",
+    "location": {
+      "X": -588.0,
+      "Y": -115.0,
+      "Z": 54.2797852,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "640",
+    "location": {
+      "X": -526.0,
+      "Y": -215.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "641",
+    "location": {
+      "X": -577.0,
+      "Y": -335.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "642",
+    "location": {
+      "X": -631.0,
+      "Y": -261.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "643",
+    "location": {
+      "X": -692.0,
+      "Y": -155.0,
+      "Z": 52.6225967,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "644",
+    "location": {
+      "X": -779.0,
+      "Y": 3.0,
+      "Z": 55.8188477,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "645",
+    "location": {
+      "X": -699.0,
+      "Y": 44.0,
+      "Z": 42.80371,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "646",
+    "location": {
+      "X": -710.0,
+      "Y": 166.0,
+      "Z": 72.2431641,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "647",
+    "location": {
+      "X": -819.0,
+      "Y": 166.0,
+      "Z": 70.3818359,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "648",
+    "location": {
+      "X": -955.0,
+      "Y": 200.0,
+      "Z": 75.62988,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "649",
+    "location": {
+      "X": -929.0,
+      "Y": 20.0,
+      "Z": 55.592907,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "650",
+    "location": {
+      "X": -879.0,
+      "Y": -209.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "651",
+    "location": {
+      "X": -774.0,
+      "Y": -200.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "652",
+    "location": {
+      "X": -709.0,
+      "Y": -307.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "653",
+    "location": {
+      "X": -701.0,
+      "Y": -404.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "654",
+    "location": {
+      "X": -886.0,
+      "Y": -429.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "655",
+    "location": {
+      "X": -895.0,
+      "Y": -362.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "656",
+    "location": {
+      "X": -977.0,
+      "Y": -269.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "657",
+    "location": {
+      "X": -1218.0,
+      "Y": -83.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "658",
+    "location": {
+      "X": -1196.0,
+      "Y": -193.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "659",
+    "location": {
+      "X": -1078.0,
+      "Y": -327.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "660",
+    "location": {
+      "X": -1055.0,
+      "Y": -433.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "661",
+    "location": {
+      "X": -987.0,
+      "Y": -483.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "662",
+    "location": {
+      "X": -1120.0,
+      "Y": -569.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "663",
+    "location": {
+      "X": -1203.0,
+      "Y": -388.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "664",
+    "location": {
+      "X": -1306.0,
+      "Y": -237.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "665",
+    "location": {
+      "X": -1345.0,
+      "Y": -112.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "666",
+    "location": {
+      "X": -1487.0,
+      "Y": -183.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "667",
+    "location": {
+      "X": -1390.0,
+      "Y": -327.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "668",
+    "location": {
+      "X": -1309.0,
+      "Y": -420.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "669",
+    "location": {
+      "X": -1316.0,
+      "Y": -584.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "670",
+    "location": {
+      "X": -1386.0,
+      "Y": -475.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "671",
+    "location": {
+      "X": -1498.0,
+      "Y": -351.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "672",
+    "location": {
+      "X": -1566.0,
+      "Y": -264.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "673",
+    "location": {
+      "X": -1711.0,
+      "Y": -323.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "674",
+    "location": {
+      "X": -1618.0,
+      "Y": -389.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "675",
+    "location": {
+      "X": -1558.0,
+      "Y": -427.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "676",
+    "location": {
+      "X": -1501.0,
+      "Y": -557.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "677",
+    "location": {
+      "X": -1432.0,
+      "Y": -661.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "678",
+    "location": {
+      "X": -1656.0,
+      "Y": -529.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "679",
+    "location": {
+      "X": -1671.0,
+      "Y": -463.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "680",
+    "location": {
+      "X": -1802.0,
+      "Y": -544.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "681",
+    "location": {
+      "X": -1866.0,
+      "Y": -335.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "682",
+    "location": {
+      "X": -2004.0,
+      "Y": -306.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "683",
+    "location": {
+      "X": -1984.0,
+      "Y": -135.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "684",
+    "location": {
+      "X": -2206.0,
+      "Y": -311.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "685",
+    "location": {
+      "X": -2014.0,
+      "Y": -567.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "686",
+    "location": {
+      "X": -1734.0,
+      "Y": -805.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "687",
+    "location": {
+      "X": -1627.0,
+      "Y": -1030.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "688",
+    "location": {
+      "X": -1826.0,
+      "Y": -1205.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "689",
+    "location": {
+      "X": -1369.0,
+      "Y": -1183.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "690",
+    "location": {
+      "X": -1343.0,
+      "Y": -1330.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "691",
+    "location": {
+      "X": -1269.0,
+      "Y": -1458.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "692",
+    "location": {
+      "X": -1326.0,
+      "Y": -1519.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "693",
+    "location": {
+      "X": -1161.0,
+      "Y": -1634.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "694",
+    "location": {
+      "X": -1193.0,
+      "Y": -1799.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "695",
+    "location": {
+      "X": -1020.0,
+      "Y": -1512.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "696",
+    "location": {
+      "X": -1048.0,
+      "Y": -1367.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "697",
+    "location": {
+      "X": -1085.0,
+      "Y": -1224.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "698",
+    "location": {
+      "X": -1101.0,
+      "Y": -1130.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "699",
+    "location": {
+      "X": -1156.0,
+      "Y": -1020.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "700",
+    "location": {
+      "X": -1200.0,
+      "Y": -933.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "701",
+    "location": {
+      "X": -1232.0,
+      "Y": -840.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "702",
+    "location": {
+      "X": -1328.0,
+      "Y": -781.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "703",
+    "location": {
+      "X": -1177.0,
+      "Y": -730.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "704",
+    "location": {
+      "X": -1108.0,
+      "Y": -845.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "705",
+    "location": {
+      "X": -1053.0,
+      "Y": -937.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "706",
+    "location": {
+      "X": -999.0,
+      "Y": -1033.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "707",
+    "location": {
+      "X": -956.0,
+      "Y": -1137.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "708",
+    "location": {
+      "X": -946.0,
+      "Y": -1289.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "709",
+    "location": {
+      "X": -816.0,
+      "Y": -1349.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "710",
+    "location": {
+      "X": -737.0,
+      "Y": -1649.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "711",
+    "location": {
+      "X": -595.0,
+      "Y": -1582.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "712",
+    "location": {
+      "X": -693.0,
+      "Y": -1435.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "713",
+    "location": {
+      "X": -826.0,
+      "Y": -1220.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "714",
+    "location": {
+      "X": -854.0,
+      "Y": -1100.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "715",
+    "location": {
+      "X": -902.0,
+      "Y": -981.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "716",
+    "location": {
+      "X": -949.0,
+      "Y": -903.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "717",
+    "location": {
+      "X": -982.0,
+      "Y": -639.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "718",
+    "location": {
+      "X": -922.0,
+      "Y": -715.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "719",
+    "location": {
+      "X": -912.0,
+      "Y": -838.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "720",
+    "location": {
+      "X": -809.0,
+      "Y": -909.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "721",
+    "location": {
+      "X": -738.0,
+      "Y": -1034.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "722",
+    "location": {
+      "X": -722.0,
+      "Y": -1124.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "723",
+    "location": {
+      "X": -588.0,
+      "Y": -1207.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "724",
+    "location": {
+      "X": -536.0,
+      "Y": -1261.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "725",
+    "location": {
+      "X": -605.0,
+      "Y": -999.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "726",
+    "location": {
+      "X": -696.0,
+      "Y": -899.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "727",
+    "location": {
+      "X": -798.0,
+      "Y": -739.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "728",
+    "location": {
+      "X": -807.0,
+      "Y": -598.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "729",
+    "location": {
+      "X": -700.0,
+      "Y": -614.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "730",
+    "location": {
+      "X": -687.0,
+      "Y": -742.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "731",
+    "location": {
+      "X": -582.0,
+      "Y": -739.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "732",
+    "location": {
+      "X": -585.0,
+      "Y": -894.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "733",
+    "location": {
+      "X": -485.0,
+      "Y": -963.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "734",
+    "location": {
+      "X": -474.0,
+      "Y": -747.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "735",
+    "location": {
+      "X": -531.0,
+      "Y": -618.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "736",
+    "location": {
+      "X": -328.0,
+      "Y": -599.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "737",
+    "location": {
+      "X": -319.0,
+      "Y": -769.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "738",
+    "location": {
+      "X": -300.0,
+      "Y": -927.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "739",
+    "location": {
+      "X": -299.0,
+      "Y": -1054.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "740",
+    "location": {
+      "X": -210.0,
+      "Y": -790.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "741",
+    "location": {
+      "X": -165.0,
+      "Y": -603.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "742",
+    "location": {
+      "X": 4.0,
+      "Y": -633.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "743",
+    "location": {
+      "X": -91.0,
+      "Y": -827.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "744",
+    "location": {
+      "X": -145.0,
+      "Y": -1018.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "745",
+    "location": {
+      "X": 2.0,
+      "Y": -1051.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "746",
+    "location": {
+      "X": 59.0,
+      "Y": -888.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "747",
+    "location": {
+      "X": 126.0,
+      "Y": -675.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "748",
+    "location": {
+      "X": 190.0,
+      "Y": -554.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "749",
+    "location": {
+      "X": 330.0,
+      "Y": -584.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "750",
+    "location": {
+      "X": 265.0,
+      "Y": -741.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "751",
+    "location": {
+      "X": 189.0,
+      "Y": -932.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "752",
+    "location": {
+      "X": 140.0,
+      "Y": -1083.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "753",
+    "location": {
+      "X": 247.0,
+      "Y": -1083.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "754",
+    "location": {
+      "X": 349.0,
+      "Y": -1092.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "755",
+    "location": {
+      "X": 315.0,
+      "Y": -1001.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "756",
+    "location": {
+      "X": 338.0,
+      "Y": -916.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "757",
+    "location": {
+      "X": 351.0,
+      "Y": -800.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "758",
+    "location": {
+      "X": 477.0,
+      "Y": -625.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "759",
+    "location": {
+      "X": 458.0,
+      "Y": -750.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "760",
+    "location": {
+      "X": 449.0,
+      "Y": -917.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "761",
+    "location": {
+      "X": 459.0,
+      "Y": -1006.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "762",
+    "location": {
+      "X": 450.0,
+      "Y": -1086.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "763",
+    "location": {
+      "X": 597.0,
+      "Y": -1091.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "764",
+    "location": {
+      "X": 667.0,
+      "Y": -931.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "765",
+    "location": {
+      "X": 667.0,
+      "Y": -762.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "766",
+    "location": {
+      "X": 628.0,
+      "Y": -626.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "767",
+    "location": {
+      "X": 832.0,
+      "Y": -743.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "768",
+    "location": {
+      "X": 884.0,
+      "Y": -934.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "769",
+    "location": {
+      "X": 776.0,
+      "Y": -1065.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "770",
+    "location": {
+      "X": 917.0,
+      "Y": -1091.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "771",
+    "location": {
+      "X": 1086.0,
+      "Y": -905.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "772",
+    "location": {
+      "X": 1129.0,
+      "Y": -1059.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "773",
+    "location": {
+      "X": 1159.0,
+      "Y": -1186.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "774",
+    "location": {
+      "X": 1460.0,
+      "Y": -1469.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "775",
+    "location": {
+      "X": 1789.0,
+      "Y": -1327.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "776",
+    "location": {
+      "X": 1959.0,
+      "Y": -986.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "777",
+    "location": {
+      "X": 2253.0,
+      "Y": -1240.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "778",
+    "location": {
+      "X": 1741.0,
+      "Y": -1551.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "779",
+    "location": {
+      "X": 1532.0,
+      "Y": -1682.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "780",
+    "location": {
+      "X": 1781.0,
+      "Y": -1763.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "781",
+    "location": {
+      "X": 1605.0,
+      "Y": -1925.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "782",
+    "location": {
+      "X": 1514.0,
+      "Y": -2118.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "783",
+    "location": {
+      "X": 1985.0,
+      "Y": -2132.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "784",
+    "location": {
+      "X": 1490.0,
+      "Y": -2361.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "785",
+    "location": {
+      "X": 1640.0,
+      "Y": -2346.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "786",
+    "location": {
+      "X": 1598.0,
+      "Y": -2585.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "787",
+    "location": {
+      "X": 1309.0,
+      "Y": -2553.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "788",
+    "location": {
+      "X": 1212.0,
+      "Y": -2477.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "789",
+    "location": {
+      "X": 1203.0,
+      "Y": -2327.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "790",
+    "location": {
+      "X": 1265.0,
+      "Y": -2087.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "791",
+    "location": {
+      "X": 1304.0,
+      "Y": -1890.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "792",
+    "location": {
+      "X": 1325.0,
+      "Y": -1754.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "793",
+    "location": {
+      "X": 1212.0,
+      "Y": -1600.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "794",
+    "location": {
+      "X": 1150.0,
+      "Y": -1479.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "795",
+    "location": {
+      "X": 931.0,
+      "Y": -1331.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "796",
+    "location": {
+      "X": 958.0,
+      "Y": -1525.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "797",
+    "location": {
+      "X": 965.0,
+      "Y": -1699.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "798",
+    "location": {
+      "X": 1028.0,
+      "Y": -1858.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "799",
+    "location": {
+      "X": 1012.0,
+      "Y": -2004.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "800",
+    "location": {
+      "X": 1137.0,
+      "Y": -2028.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "801",
+    "location": {
+      "X": 1117.0,
+      "Y": -2177.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "802",
+    "location": {
+      "X": 1003.0,
+      "Y": -2194.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "803",
+    "location": {
+      "X": 983.0,
+      "Y": -2387.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "804",
+    "location": {
+      "X": 1028.0,
+      "Y": -2536.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "805",
+    "location": {
+      "X": 884.0,
+      "Y": -2515.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "806",
+    "location": {
+      "X": 826.0,
+      "Y": -2351.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "807",
+    "location": {
+      "X": 860.0,
+      "Y": -2167.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "808",
+    "location": {
+      "X": 872.0,
+      "Y": -2004.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "809",
+    "location": {
+      "X": 880.0,
+      "Y": -1852.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "810",
+    "location": {
+      "X": 778.0,
+      "Y": -1338.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "811",
+    "location": {
+      "X": 606.0,
+      "Y": -1337.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "812",
+    "location": {
+      "X": 714.0,
+      "Y": -1497.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "813",
+    "location": {
+      "X": 695.0,
+      "Y": -1631.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "814",
+    "location": {
+      "X": 762.0,
+      "Y": -1682.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "815",
+    "location": {
+      "X": 746.0,
+      "Y": -1818.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "816",
+    "location": {
+      "X": 735.0,
+      "Y": -1981.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "817",
+    "location": {
+      "X": 724.0,
+      "Y": -2131.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "818",
+    "location": {
+      "X": 688.0,
+      "Y": -2271.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "819",
+    "location": {
+      "X": 693.0,
+      "Y": -2420.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "820",
+    "location": {
+      "X": 542.0,
+      "Y": -2347.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "821",
+    "location": {
+      "X": 553.0,
+      "Y": -2176.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "822",
+    "location": {
+      "X": 536.0,
+      "Y": -1980.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "823",
+    "location": {
+      "X": 544.0,
+      "Y": -1802.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "824",
+    "location": {
+      "X": 556.0,
+      "Y": -1692.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "825",
+    "location": {
+      "X": 541.0,
+      "Y": -1614.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "826",
+    "location": {
+      "X": 438.0,
+      "Y": -1354.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "827",
+    "location": {
+      "X": 438.0,
+      "Y": -1523.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "828",
+    "location": {
+      "X": 454.0,
+      "Y": -1727.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "829",
+    "location": {
+      "X": 459.0,
+      "Y": -1894.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "830",
+    "location": {
+      "X": 428.0,
+      "Y": -2069.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "831",
+    "location": {
+      "X": 371.0,
+      "Y": -1845.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "832",
+    "location": {
+      "X": 334.0,
+      "Y": -1637.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "833",
+    "location": {
+      "X": 355.0,
+      "Y": -1386.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "834",
+    "location": {
+      "X": 299.0,
+      "Y": -1272.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "835",
+    "location": {
+      "X": 135.0,
+      "Y": -1298.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "836",
+    "location": {
+      "X": 247.0,
+      "Y": -1335.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "837",
+    "location": {
+      "X": 160.0,
+      "Y": -1491.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "838",
+    "location": {
+      "X": 185.0,
+      "Y": -1669.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "839",
+    "location": {
+      "X": 274.0,
+      "Y": -1748.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "840",
+    "location": {
+      "X": 189.0,
+      "Y": -1854.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "841",
+    "location": {
+      "X": 252.0,
+      "Y": -1960.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "842",
+    "location": {
+      "X": 330.0,
+      "Y": -2073.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "843",
+    "location": {
+      "X": 169.0,
+      "Y": -2192.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "844",
+    "location": {
+      "X": 152.0,
+      "Y": -2077.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "845",
+    "location": {
+      "X": 74.0,
+      "Y": -1965.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "846",
+    "location": {
+      "X": 130.0,
+      "Y": -1909.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "847",
+    "location": {
+      "X": 42.0,
+      "Y": -1749.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "848",
+    "location": {
+      "X": 78.0,
+      "Y": -1579.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "849",
+    "location": {
+      "X": 37.0,
+      "Y": -1419.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "850",
+    "location": {
+      "X": -19.0,
+      "Y": -1307.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "851",
+    "location": {
+      "X": -205.0,
+      "Y": -1310.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "852",
+    "location": {
+      "X": -129.0,
+      "Y": -1446.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "853",
+    "location": {
+      "X": -27.0,
+      "Y": -1534.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "854",
+    "location": {
+      "X": -241.0,
+      "Y": -1586.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "855",
+    "location": {
+      "X": -127.0,
+      "Y": -1639.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "856",
+    "location": {
+      "X": -23.0,
+      "Y": -1666.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "857",
+    "location": {
+      "X": -106.0,
+      "Y": -1815.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "858",
+    "location": {
+      "X": -133.0,
+      "Y": -1973.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "859",
+    "location": {
+      "X": -9.0,
+      "Y": -2095.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "860",
+    "location": {
+      "X": -66.0,
+      "Y": -2220.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "861",
+    "location": {
+      "X": -237.0,
+      "Y": -2241.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "862",
+    "location": {
+      "X": -287.0,
+      "Y": -2105.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "863",
+    "location": {
+      "X": -318.0,
+      "Y": -1950.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "864",
+    "location": {
+      "X": -316.0,
+      "Y": -1758.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "865",
+    "location": {
+      "X": -324.0,
+      "Y": -1352.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "866",
+    "location": {
+      "X": -344.0,
+      "Y": -1515.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "867",
+    "location": {
+      "X": -460.0,
+      "Y": -1710.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "868",
+    "location": {
+      "X": -591.0,
+      "Y": -1775.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "869",
+    "location": {
+      "X": -481.0,
+      "Y": -1852.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "870",
+    "location": {
+      "X": -396.0,
+      "Y": -2272.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "871",
+    "location": {
+      "X": -494.0,
+      "Y": -2189.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "872",
+    "location": {
+      "X": -596.0,
+      "Y": -2024.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "873",
+    "location": {
+      "X": -762.0,
+      "Y": -2013.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "874",
+    "location": {
+      "X": -835.0,
+      "Y": -1868.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "875",
+    "location": {
+      "X": -996.0,
+      "Y": -1966.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "876",
+    "location": {
+      "X": -1134.0,
+      "Y": -2024.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "877",
+    "location": {
+      "X": -1464.0,
+      "Y": -2251.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "878",
+    "location": {
+      "X": -1551.0,
+      "Y": -2414.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "879",
+    "location": {
+      "X": -1646.0,
+      "Y": -2562.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "880",
+    "location": {
+      "X": -1762.0,
+      "Y": -2777.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "881",
+    "location": {
+      "X": -1891.0,
+      "Y": -3013.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "882",
+    "location": {
+      "X": -1635.0,
+      "Y": -3178.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "883",
+    "location": {
+      "X": -1570.0,
+      "Y": -2899.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "884",
+    "location": {
+      "X": -1442.0,
+      "Y": -2665.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "885",
+    "location": {
+      "X": -1339.0,
+      "Y": -2497.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "886",
+    "location": {
+      "X": -1254.0,
+      "Y": -2327.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "887",
+    "location": {
+      "X": -1066.0,
+      "Y": -2161.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "888",
+    "location": {
+      "X": -846.0,
+      "Y": -2140.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "889",
+    "location": {
+      "X": -953.0,
+      "Y": -2287.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "890",
+    "location": {
+      "X": -1084.0,
+      "Y": -2432.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "891",
+    "location": {
+      "X": -1151.0,
+      "Y": -2582.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "892",
+    "location": {
+      "X": -1264.0,
+      "Y": -2723.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "893",
+    "location": {
+      "X": -1376.0,
+      "Y": -3025.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "894",
+    "location": {
+      "X": -1427.0,
+      "Y": -3309.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "895",
+    "location": {
+      "X": -1236.0,
+      "Y": -3427.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "896",
+    "location": {
+      "X": -1038.0,
+      "Y": -3519.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "897",
+    "location": {
+      "X": -1163.0,
+      "Y": -3139.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "898",
+    "location": {
+      "X": -945.0,
+      "Y": -3263.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "899",
+    "location": {
+      "X": -1197.0,
+      "Y": -2890.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "900",
+    "location": {
+      "X": -982.0,
+      "Y": -2892.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "901",
+    "location": {
+      "X": -1063.0,
+      "Y": -2810.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "902",
+    "location": {
+      "X": -992.0,
+      "Y": -2656.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "903",
+    "location": {
+      "X": -869.0,
+      "Y": -2758.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "904",
+    "location": {
+      "X": -910.0,
+      "Y": -2521.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "905",
+    "location": {
+      "X": -761.0,
+      "Y": -2558.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "906",
+    "location": {
+      "X": -789.0,
+      "Y": -2398.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "907",
+    "location": {
+      "X": -652.0,
+      "Y": -2422.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "908",
+    "location": {
+      "X": -714.0,
+      "Y": -2266.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "909",
+    "location": {
+      "X": -568.0,
+      "Y": -2296.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "910",
+    "location": {
+      "X": -454.0,
+      "Y": -2448.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "911",
+    "location": {
+      "X": -357.0,
+      "Y": -2646.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "912",
+    "location": {
+      "X": -487.0,
+      "Y": -2819.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "913",
+    "location": {
+      "X": -318.0,
+      "Y": -2720.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "914",
+    "location": {
+      "X": -272.0,
+      "Y": -2471.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "915",
+    "location": {
+      "X": -241.0,
+      "Y": -2583.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "916",
+    "location": {
+      "X": -187.0,
+      "Y": -2674.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "917",
+    "location": {
+      "X": -112.0,
+      "Y": -2433.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "918",
+    "location": {
+      "X": -138.0,
+      "Y": -2576.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "919",
+    "location": {
+      "X": -76.0,
+      "Y": -2696.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "920",
+    "location": {
+      "X": 8.0,
+      "Y": -2486.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "921",
+    "location": {
+      "X": 49.0,
+      "Y": -2722.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "922",
+    "location": {
+      "X": 202.0,
+      "Y": -2485.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "923",
+    "location": {
+      "X": 286.0,
+      "Y": -2471.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "924",
+    "location": {
+      "X": 295.0,
+      "Y": -2577.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "925",
+    "location": {
+      "X": 320.0,
+      "Y": -2754.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "926",
+    "location": {
+      "X": 180.0,
+      "Y": -2829.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "927",
+    "location": {
+      "X": 194.0,
+      "Y": -3041.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "928",
+    "location": {
+      "X": 223.0,
+      "Y": -3247.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "929",
+    "location": {
+      "X": 527.0,
+      "Y": -3238.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "930",
+    "location": {
+      "X": 447.0,
+      "Y": -2986.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "931",
+    "location": {
+      "X": 608.0,
+      "Y": -2979.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "932",
+    "location": {
+      "X": 576.0,
+      "Y": -2798.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "933",
+    "location": {
+      "X": 502.0,
+      "Y": -2622.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "934",
+    "location": {
+      "X": 458.0,
+      "Y": -2458.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "935",
+    "location": {
+      "X": 661.0,
+      "Y": -2585.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "936",
+    "location": {
+      "X": 733.0,
+      "Y": -2932.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "937",
+    "location": {
+      "X": 917.0,
+      "Y": -3008.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "938",
+    "location": {
+      "X": 1107.0,
+      "Y": -3008.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "939",
+    "location": {
+      "X": 926.0,
+      "Y": -3116.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "940",
+    "location": {
+      "X": 1097.0,
+      "Y": -3124.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "941",
+    "location": {
+      "X": 1212.0,
+      "Y": -3157.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "942",
+    "location": {
+      "X": 923.0,
+      "Y": -3221.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "943",
+    "location": {
+      "X": 1104.0,
+      "Y": -3216.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "944",
+    "location": {
+      "X": 808.0,
+      "Y": -3272.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "945",
+    "location": {
+      "X": 1031.0,
+      "Y": -3285.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  {
+    "label": "946",
+    "location": {
+      "X": 1214.0,
+      "Y": -3285.0,
+      "Z": 0.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  }
+]
